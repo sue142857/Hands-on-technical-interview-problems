@@ -1,5 +1,7 @@
 # Hands-on-technical-interview-problems
 date: 06-10-2021
+## Linked List
+* [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Linked_List_review.md)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 ### Binary Search
