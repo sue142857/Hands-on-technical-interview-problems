@@ -5,6 +5,8 @@ date: 06-10-2021
 ## Core Data Structures
 ### Stack and Queue
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Stack_Queue.md)
+### Heap
+* [Review](https://github.com/sue142857/compsci_guides/blob/master/heaps/heaps.md) | [Python Docs](https://docs.python.org/3/library/heapq.html)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 ### Binary Search
