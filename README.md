@@ -8,7 +8,7 @@ date: 06-10-2021
 ### Heap
 * [Review](https://github.com/sue142857/compsci_guides/blob/master/heaps/heaps.md) | [Python Docs](https://docs.python.org/3/library/heapq.html)
 ### Hash Table
-* [Review](https://github.com/sue142857/compsci_guides/blob/master/hash_tables/hash_tables.md)
+* [Review](https://github.com/sue142857/compsci_guides/blob/master/hash_tables/hash_tables.md) | [Python Docs dict](https://docs.python.org/3/library/stdtypes.html#dict) | [Python Docs collections](https://docs.python.org/3/library/collections.html#module-collections)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 ### Binary Search
