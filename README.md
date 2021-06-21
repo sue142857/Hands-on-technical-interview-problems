@@ -6,7 +6,7 @@ date: 06-10-2021
 ### Stack and Queue
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Stack_Queue.md)
 * Monotonous stack:
-  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Solution
+  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_739.%20Daily%20Temperatures.md)
 ### Heap
 * [Review](https://github.com/sue142857/compsci_guides/blob/master/heaps/heaps.md) | [Python Docs](https://docs.python.org/3/library/heapq.html)
   - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
