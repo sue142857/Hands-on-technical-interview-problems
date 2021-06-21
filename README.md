@@ -5,6 +5,8 @@ date: 06-10-2021
 ## Core Data Structures
 ### Stack and Queue
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Stack_Queue.md)
+* Monotonous stack:
+  - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Solution
 ### Heap
 * [Review](https://github.com/sue142857/compsci_guides/blob/master/heaps/heaps.md) | [Python Docs](https://docs.python.org/3/library/heapq.html)
   - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
