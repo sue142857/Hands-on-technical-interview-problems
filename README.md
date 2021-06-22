@@ -13,6 +13,7 @@ date: 06-10-2021
   - [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)
 ### Hash Table
 * [Review](https://github.com/sue142857/compsci_guides/blob/master/hash_tables/hash_tables.md) | [Python Docs dict](https://docs.python.org/3/library/stdtypes.html#dict) | [Python Docs collections](https://docs.python.org/3/library/collections.html#module-collections) | [delete key](https://stackoverflow.com/questions/11277432/how-can-i-remove-a-key-from-a-python-dictionary)
+  - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_205.%20Isomorphic%20Strings.md) | Error-prone
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 ### Binary Search
