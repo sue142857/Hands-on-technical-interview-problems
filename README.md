@@ -1,5 +1,7 @@
 # Hands-on-technical-interview-problems
 date: 06-10-2021
+## Python
+* [Arithmetic Operators](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_Arithmetic_Operators.md)
 ## Linked List
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Linked_List.md)
 ## Core Data Structures
