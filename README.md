@@ -42,3 +42,5 @@ date: 06-10-2021
 * 1D DP
 * 2D DP
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_871.%20Minimum%20Number%20of%20Refueling%20Stops.md)
+* 3D DP
+  - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
