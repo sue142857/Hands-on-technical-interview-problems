@@ -7,7 +7,7 @@ date: 06-10-2021
 ## Core Data Structures
 ### Stack and Queue
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Stack_Queue.md)
-  - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
+  - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_232.%20Implement%20Queue%20using%20Stacks.md)
   - [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_946.%20Validate%20Stack%20Sequences.md)
 * Monotonous stack:
   - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_739.%20Daily%20Temperatures.md)
