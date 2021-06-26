@@ -45,6 +45,8 @@ date: 06-10-2021
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_871.%20Minimum%20Number%20of%20Refueling%20Stops.md)
 * 3D DP
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
+### Binary Tree
+* Count Nodes in Complete Binary Tree | [Solution]()
 ### Graph
 * Detect Cycles in Undirected Graph | [Print Cycles](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Print%20Cycles%20in%20Undirected%20Graph.md)
   - [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_684.%20Redundant%20Connection.md) | Union Find
