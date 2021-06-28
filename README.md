@@ -13,6 +13,7 @@ date: 06-10-2021
   - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_739.%20Daily%20Temperatures.md)
   - [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_155.%20Min%20Stack.md) | Tricky
   - [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_907.%20Sum%20of%20Subarray%20Minimums.md)
+  - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_84.%20Largest%20Rectangle%20in%20Histogram.md)
 * Parsing Problems
   - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_224.%20Basic%20Calculator.md)
 ### Heap
@@ -22,6 +23,7 @@ date: 06-10-2021
   - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_692.%20Top%20K%20Frequent%20Words.md)
   - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)
   - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_973.%20K%20Closest%20Points%20to%20Origin.md)
+  - [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 ### Hash Table
 * [Review](https://github.com/sue142857/compsci_guides/blob/master/hash_tables/hash_tables.md) | [Python Docs dict](https://docs.python.org/3/library/stdtypes.html#dict) | [Python Docs collections](https://docs.python.org/3/library/collections.html#module-collections) | [delete key](https://stackoverflow.com/questions/11277432/how-can-i-remove-a-key-from-a-python-dictionary)
 * Error-prone String Problems in Space Complexity and others
