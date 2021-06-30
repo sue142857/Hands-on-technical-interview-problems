@@ -49,9 +49,9 @@ date: 06-10-2021
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_871.%20Minimum%20Number%20of%20Refueling%20Stops.md)
 * 3D DP
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
-### Binary Tree
+### [Binary Tree](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Tree.md)
 * Count Nodes in Complete Binary Tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
-* [Binary Search Trees](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Binary_Search_Trees.md)
+* [Binary Search Trees](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search_Trees.md)
 * 
 ### Graph
 * Detect Cycles in Undirected Graph | [Print Cycles](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Print%20Cycles%20in%20Undirected%20Graph.md)
