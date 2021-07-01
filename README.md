@@ -54,6 +54,7 @@ date: 06-10-2021
 - Count Nodes in Complete Binary Tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
 * [Binary Search Trees](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search_Trees.md)
    - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_98.%20Validate%20Binary%20Search%20Tree.md)
+   - 2nd Largest Node | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/the%202nd%20largest%20tree%20node%20of%20BST.md)
 ### Graph
 * Detect Cycles in Undirected Graph | [Print Cycles](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Print%20Cycles%20in%20Undirected%20Graph.md)
   - [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_684.%20Redundant%20Connection.md) | Union Find
