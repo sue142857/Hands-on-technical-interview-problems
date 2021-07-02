@@ -31,6 +31,8 @@ date: 06-10-2021
   - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_771.%20Jewels%20and%20Stones.md)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
+* Two Pointers
+  - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_658.%20Find%20K%20Closest%20Elements.md)
 ## Strings
 * Subsequences
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
