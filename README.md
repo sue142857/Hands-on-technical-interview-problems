@@ -76,5 +76,6 @@ date: 06-10-2021
 * [Topological Sorting](https://guides.codepath.org/compsci/Topological-Sort)
   - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
   - [Course Schedule](https://leetcode.com/problems/course-schedule/)
+  - [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
 * Union Find
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
