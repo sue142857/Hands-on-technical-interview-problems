@@ -75,5 +75,6 @@ date: 06-10-2021
 * [Detect Cycles in Directed Graph](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Detected%20Cycle%20in%20a%20Directed%20Graph.md)
 * [Topological Sorting](https://guides.codepath.org/compsci/Topological-Sort)
   - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+  - [Course Schedule](https://leetcode.com/problems/course-schedule/)
 * Union Find
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
