@@ -81,3 +81,4 @@ date: 06-10-2021
   - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 * Union Find
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
+  - [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
