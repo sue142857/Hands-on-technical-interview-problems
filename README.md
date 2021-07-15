@@ -79,6 +79,7 @@ date: 06-10-2021
   - [Course Schedule](https://leetcode.com/problems/course-schedule/)
   - [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
   - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+  - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
 * Union Find
   - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
   - [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
