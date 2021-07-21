@@ -92,5 +92,8 @@ date: 06-10-2021
   - [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1102.%20Path%20With%20Maximum%20Minimum%20Value.md)
 
 * [Minimum Spanning Tree](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Minimum%20Spanning%20Tree.md)
- - [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_1168.%20Optimize%20Water%20Distribution%20in%20a%20Village.md)
+  - [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_1168.%20Optimize%20Water%20Distribution%20in%20a%20Village.md)
+
+* [Euler Graph / Eulerian Path / Eulerian Circuit](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Eulerian%20Path%20and%20Circuit.md)
+  - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_332.%20Reconstruct%20Itinerary.md)
   
