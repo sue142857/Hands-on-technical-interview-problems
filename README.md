@@ -90,5 +90,6 @@ date: 06-10-2021
 * [Dijkstra's Algorithem](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Dijkstra's%20Algorithm.md) (Shortest Path of Weighted Graph)
   - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_778.%20Swim%20in%20Rising%20Water.md)
 
-* [Minimum Spanning Tree]()
+* [Minimum Spanning Tree](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Minimum%20Spanning%20Tree.md)
+ - [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_1168.%20Optimize%20Water%20Distribution%20in%20a%20Village.md)
   
