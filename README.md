@@ -89,4 +89,6 @@ date: 06-10-2021
   - [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
 * [Dijkstra's Algorithem](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Dijkstra's%20Algorithm.md) (Shortest Path of Weighted Graph)
   - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_778.%20Swim%20in%20Rising%20Water.md)
+
+* [Minimum Spanning Tree]()
   
