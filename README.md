@@ -35,6 +35,8 @@ date: 06-10-2021
   - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_658.%20Find%20K%20Closest%20Elements.md)
 * One pass scan
   - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Solution](https://leetcode.com/problems/valid-triangle-number/discuss/128135/A-similar-O(n2)-solution-to-3-Sum)
+* 2D Arrays
+ - [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_48.%20Rotate%20Image.md)
  
 ## Strings
 * Subsequences
