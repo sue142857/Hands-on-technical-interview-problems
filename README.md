@@ -4,7 +4,7 @@ date: 06-10-2021
 * [Arithmetic Operators](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_Arithmetic_Operators.md)
 * [collections and dictionary module](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python%20module%20collections%20and%20dictionary.md)
 
-## Bit Manipulation
+## [Bit Manipulation](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/bit%20manipulation.md)
  - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 ## Linked List
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Linked_List.md)
