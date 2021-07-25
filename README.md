@@ -2,6 +2,7 @@
 date: 06-10-2021
 ## Python
 * [Arithmetic Operators](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_Arithmetic_Operators.md)
+* [collections and dictionary module](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python%20module%20collections%20and%20dictionary.md)
 ## Linked List
 * [Review](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Linked_List.md)
 ## Core Data Structures
