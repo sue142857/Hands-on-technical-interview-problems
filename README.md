@@ -103,4 +103,6 @@ date: 06-10-2021
 
 * [Euler Graph / Eulerian Path / Eulerian Circuit](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Eulerian%20Path%20and%20Circuit.md)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_332.%20Reconstruct%20Itinerary.md)
-  
+
+## OObject-Oriented Design
+  - [LRU Cache](https://leetcode.com/problems/lru-cache/)
