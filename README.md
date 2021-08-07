@@ -110,3 +110,6 @@ date: 06-10-2021
 
 ## OObject-Oriented Design
   - [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+## BackTracking
+  - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
