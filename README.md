@@ -115,3 +115,7 @@ date: 06-10-2021
 ## [BackTracking](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Backtracking.md)
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
   - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1219.%20Path%20with%20Maximum%20Gold.md)
+
+## Greedy
+### Maximum or Minimum
+  - [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_870.%20Advantage%20Shuffle.md)
