@@ -33,6 +33,8 @@ date: 06-10-2021
 * Error-prone String Problems in Space Complexity and others
   - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_205.%20Isomorphic%20Strings.md)
   - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_771.%20Jewels%20and%20Stones.md)
+* Tricky Array Problems
+  - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 * Two Pointers
