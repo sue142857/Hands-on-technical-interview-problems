@@ -51,7 +51,7 @@ date: 06-10-2021
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
 * [KMP](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.md)
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-### Binary Search
+## Binary Search
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
   - [list method append() vs extend()](https://www.geeksforgeeks.org/append-extend-python/)
@@ -62,7 +62,7 @@ date: 06-10-2021
 
 * Tricky Problems
   - [Occurences of an Element in a Sorted Array](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Occurences%20of%20an%20Element%20in%20a%20Sorted%20Array.md)
-### Dynamic Programming
+## Dynamic Programming
 * 1D DP
   - [Longest Alternating Subsequence](https://www.geeksforgeeks.org/longest-alternating-subsequence/)
   - [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_62.%20Unique%20Paths.md)
@@ -71,7 +71,7 @@ date: 06-10-2021
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_871.%20Minimum%20Number%20of%20Refueling%20Stops.md)
 * 3D DP
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
-### Binary Tree
+## Binary Tree
 * [Glossary](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Tree.md) | [Traversal](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Tree_Traversal.md)
   - Count Nodes in Complete Binary Tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
   - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
@@ -86,7 +86,7 @@ date: 06-10-2021
    - [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
    - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_1373.%20Max%20Sum%20BST.md)
    - [Delete Node From Binary Search Tree](https://guides.codepath.org/compsci/Delete-Node-From-Binary-Search-Tree)
-### Graph
+## Graph
 * Graph Travesal
   - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_126.%20Word%20Ladder%20II.md)
 * Detect Cycles in Undirected Graph | [Print Cycles](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Print%20Cycles%20in%20Undirected%20Graph.md)
