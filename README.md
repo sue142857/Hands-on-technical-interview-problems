@@ -63,6 +63,7 @@ date: 06-10-2021
 * Tricky Problems
   - [Occurences of an Element in a Sorted Array](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Occurences%20of%20an%20Element%20in%20a%20Sorted%20Array.md)
 ## Dynamic Programming
+- [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_91.%20Decode%20Ways.md)
 * 1D DP
   - [Longest Alternating Subsequence](https://www.geeksforgeeks.org/longest-alternating-subsequence/)
   - [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_62.%20Unique%20Paths.md)
