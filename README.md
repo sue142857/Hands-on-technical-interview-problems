@@ -113,8 +113,9 @@ date: 06-10-2021
 * [Euler Graph / Eulerian Path / Eulerian Circuit](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Eulerian%20Path%20and%20Circuit.md)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_332.%20Reconstruct%20Itinerary.md)
 
-## OObject-Oriented Design
+## Object-Oriented Design
   - [LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_208.%20Implement%20Trie%20(Prefix%20Tree).md)
 
 ## [BackTracking](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Backtracking.md)
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
