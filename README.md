@@ -114,10 +114,6 @@ date: 06-10-2021
 * [Euler Graph / Eulerian Path / Eulerian Circuit](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Eulerian%20Path%20and%20Circuit.md)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_332.%20Reconstruct%20Itinerary.md)
 
-## Object-Oriented Design
-  - [LRU Cache](https://leetcode.com/problems/lru-cache/)
-  - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_208.%20Implement%20Trie%20(Prefix%20Tree).md)
-
 ## [BackTracking](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Backtracking.md)
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
   - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1219.%20Path%20with%20Maximum%20Gold.md)
@@ -125,5 +121,10 @@ date: 06-10-2021
 ## Greedy
 * Maximum or Minimum
   - [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_870.%20Advantage%20Shuffle.md)
+
+## Object-Oriented Design
+  - [LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_208.%20Implement%20Trie%20(Prefix%20Tree).md)
+  - [Snake Game](https://www.geeksforgeeks.org/design-snake-game/)
 
 # [Companies]
