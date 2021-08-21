@@ -60,6 +60,7 @@ date: 06-10-2021
 * Non-overlapping Intervals
   - [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_729.%20My%20Calendar%20I.md/)
   - [Range Module](https://leetcode.com/problems/range-module/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Google_Hard.%20715.%20Range%20Module.md)
+  - [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_981.%20Time%20Based%20Key-Value%20Store.md)
 
 * Tricky Problems
   - [Occurences of an Element in a Sorted Array](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Occurences%20of%20an%20Element%20in%20a%20Sorted%20Array.md)
