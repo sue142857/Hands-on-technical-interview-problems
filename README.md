@@ -1,6 +1,7 @@
 # Hands-on-technical-interview-problems
 date: 06-10-2021
 ## Python
+* [Python Doc/Help](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_help.md)
 * [Arithmetic Operators](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_Arithmetic_Operators.md)
 * [collections and dictionary module](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python%20module%20collections%20and%20dictionary.md)
 * [random](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_random.md)
