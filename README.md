@@ -37,7 +37,7 @@ date: 06-10-2021
   - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_128.%20Longest%20Consecutive%20Sequence.md)
  
 * Usage of data structure combination
- - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_380.%20Insert%20Delete%20GetRandom%20O(1).md)
+  - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_380.%20Insert%20Delete%20GetRandom%20O(1).md)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
 * Two Pointers
