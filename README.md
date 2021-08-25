@@ -134,5 +134,5 @@ date: 06-10-2021
   - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_208.%20Implement%20Trie%20(Prefix%20Tree).md)
   - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_622.%20Design%20Circular%20Queue.md)
   - [Snake Game](https://www.geeksforgeeks.org/design-snake-game/)
-
+  - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_341.%20Flatten%20Nested%20List%20Iterator.md)
 # [Companies]
