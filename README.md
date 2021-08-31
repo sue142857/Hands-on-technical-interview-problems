@@ -42,9 +42,10 @@ date: 06-10-2021
   - [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_380.%20Insert%20Delete%20GetRandom%20O(1).md)
 ## Arrays
 * [Python Docs of Array Methods](https://docs.python.org/3/library/array.html)
-* Two Pointers
+* Two Pointers (also known as 'Sliding Window')
   - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_658.%20Find%20K%20Closest%20Elements.md)
   - [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_189.%20Rotate%20Array.md)
+  - Minimum Size Subarray Sum | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_209.%20Minimum%20Size%20Subarray%20Sum.md)
 * One pass scan
   - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Solution](https://leetcode.com/problems/valid-triangle-number/discuss/128135/A-similar-O(n2)-solution-to-3-Sum)
 * 2D Arrays
@@ -56,7 +57,7 @@ date: 06-10-2021
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
 * [KMP](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.md)
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-## Binary Search
+## [Binary Search](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search.md)
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
   - [list method append() vs extend()](https://www.geeksforgeeks.org/append-extend-python/)
