@@ -104,7 +104,7 @@ date: 06-10-2021
   - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_126.%20Word%20Ladder%20II.md)
 * Detect Cycles in Undirected Graph | [Print Cycles](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Print%20Cycles%20in%20Undirected%20Graph.md)
   - [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_684.%20Redundant%20Connection.md) | Union Find
- 
+  - [The Maze](https://leetcode.com/problems/the-maze/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_490.%20The%20Maze.md)
 * [Detect Cycles in Directed Graph](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Detected%20Cycle%20in%20a%20Directed%20Graph.md)
   - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 * [Topological Sorting](https://guides.codepath.org/compsci/Topological-Sort)
