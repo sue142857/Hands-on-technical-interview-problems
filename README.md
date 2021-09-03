@@ -85,7 +85,6 @@ date: 06-10-2021
   - [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/tree/main)
 ## Binary Tree
 * [Glossary](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Tree.md) | [Traversal](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Tree_Traversal.md)
-  - Count Nodes in Complete Binary Tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
   - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
   - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/medium_114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
   - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/medium_236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
@@ -101,6 +100,7 @@ date: 06-10-2021
    - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_173.%20Binary%20Search%20Tree%20Iterator.md)
 * Complete Binary Tree
    - is complete binary tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Is%20a%20complete%20binary%20tree.md)
+   - [Count Nodes in Complete Binary Tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
 ## Graph
 * Graph Travesal
   - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_126.%20Word%20Ladder%20II.md)
