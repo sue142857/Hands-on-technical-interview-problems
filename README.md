@@ -89,6 +89,7 @@ date: 06-10-2021
   - [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/medium_114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
   - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/medium_236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
   - [Print a Binary Tree in Vertical Order](https://www.geeksforgeeks.org/print-binary-tree-vertical-order/)
+  - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 * Path
   - [Path Sum](https://leetcode.com/problems/path-sum/)
 * [Binary Search Trees](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search_Trees.md)
