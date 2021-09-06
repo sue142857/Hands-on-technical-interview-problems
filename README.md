@@ -57,6 +57,9 @@ date: 06-10-2021
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
 * [KMP](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/KMP%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95.md)
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+
+* Trie
+ - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [[Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_386.%20Lexicographical%20Numbers.md)
 ## [Binary Search](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search.md)
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
