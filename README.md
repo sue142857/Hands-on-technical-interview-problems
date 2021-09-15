@@ -104,6 +104,8 @@ date: 06-10-2021
    - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_1373.%20Max%20Sum%20BST.md)
    - [Delete Node From Binary Search Tree](https://guides.codepath.org/compsci/Delete-Node-From-Binary-Search-Tree)
    - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_173.%20Binary%20Search%20Tree%20Iterator.md)
+* Tree Serialization
+   - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_652.%20Find%20Duplicate%20Subtrees.md)
 * Complete Binary Tree
    - is complete binary tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Is%20a%20complete%20binary%20tree.md)
    - [Count Nodes in Complete Binary Tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
