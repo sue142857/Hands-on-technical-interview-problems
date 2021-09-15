@@ -60,7 +60,11 @@ date: 06-10-2021
   - [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 
 * Trie
- - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [[Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_386.%20Lexicographical%20Numbers.md)
+  - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [[Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_386.%20Lexicographical%20Numbers.md)
+ 
+* Error-prone
+  - [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_833.%20Find%20And%20Replace%20in%20String.md)
+
 ## [Binary Search](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search.md)
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
