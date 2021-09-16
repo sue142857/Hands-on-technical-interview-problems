@@ -64,6 +64,7 @@ date: 06-10-2021
  
 * Error-prone
   - [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_833.%20Find%20And%20Replace%20in%20String.md)
+  - [Text Justification](https://leetcode.com/problems/text-justification/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_68.%20Text%20Justification.md)
 
 ## [Binary Search](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_Binary_Search.md)
 * Python Modules
