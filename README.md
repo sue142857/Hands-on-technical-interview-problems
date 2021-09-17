@@ -82,6 +82,10 @@ date: 06-10-2021
 
 * Tricky Problems
   - [Occurences of an Element in a Sorted Array](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Occurences%20of%20an%20Element%20in%20a%20Sorted%20Array.md)
+
+* Hard
+ - [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_786.%20K-th%20Smallest%20Prime%20Fraction.md)
+
 ## Dynamic Programming
 - [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_91.%20Decode%20Ways.md)
 * 1D DP
