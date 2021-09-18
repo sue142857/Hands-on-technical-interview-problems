@@ -52,7 +52,9 @@ date: 06-10-2021
 * 2D Arrays
  - [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_48.%20Rotate%20Image.md)
  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_36.%20Valid%20Sudoku.md) | row/column index transformation of matrix and sub-matrixes
- 
+
+* Sorting
+ - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/commit/cfc10607456d3add51f8eddbc6f5cab25e72648d)
 ## Strings
 * Subsequences
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
