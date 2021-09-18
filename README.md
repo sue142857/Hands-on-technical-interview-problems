@@ -54,7 +54,7 @@ date: 06-10-2021
  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_36.%20Valid%20Sudoku.md) | row/column index transformation of matrix and sub-matrixes
 
 * Sorting
- - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/commit/cfc10607456d3add51f8eddbc6f5cab25e72648d)
+ - [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_2007.%20Find%20Original%20Array%20From%20Doubled%20Array.md)
 ## Strings
 * Subsequences
   - [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_792.%20Number%20of%20Matching%20Subsequences.md)
