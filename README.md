@@ -146,6 +146,9 @@ date: 06-10-2021
 * [Euler Graph / Eulerian Path / Eulerian Circuit](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Eulerian%20Path%20and%20Circuit.md)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_332.%20Reconstruct%20Itinerary.md)
 
+* Directed Acyclic Graph
+  - [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1048.%20Longest%20String%20Chain.md)
+
 ## [BackTracking](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Backtracking.md)
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
   - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1219.%20Path%20with%20Maximum%20Gold.md)
