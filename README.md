@@ -169,5 +169,6 @@ date: 06-10-2021
 ## System Design
 * Threading and Concurency Safety
   - [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Easy_359.%20Logger%20Rate%20Limiter.md)
+  - [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)
 
 # [Companies]
