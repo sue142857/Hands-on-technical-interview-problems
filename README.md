@@ -72,7 +72,7 @@ date: 06-10-2021
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
   - [list method append() vs extend()](https://www.geeksforgeeks.org/append-extend-python/)
-  - [segment_tree](https://www.geeksforgeeks.org/segment-tree-efficient-implementation/) todo https://leetcode.com/problems/range-sum-query-mutable/
+  - [segment_tree](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_SegmentTree.md) todo https://leetcode.com/problems/range-sum-query-mutable/
 * Basics
   - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
