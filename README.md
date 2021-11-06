@@ -72,7 +72,7 @@ date: 06-10-2021
 * Python Modules
   - [bisect, bisect_left, bisect_right](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Python_module_bisect.md) | [Docs](https://docs.python.org/3/library/bisect.html)
   - [list method append() vs extend()](https://www.geeksforgeeks.org/append-extend-python/)
-  - [segment_tree](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_SegmentTree.md) todo https://leetcode.com/problems/range-sum-query-mutable/
+
 * Basics
   - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
@@ -121,6 +121,8 @@ date: 06-10-2021
 * Complete Binary Tree
    - is complete binary tree | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Is%20a%20complete%20binary%20tree.md)
    - [Count Nodes in Complete Binary Tree](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_Count%20Nodes%20in%20Complete%20Binary%20Tree.md)
+* [Segment Tree] (https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Review_SegmentTree.md)
+   - [Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 ## Graph
 * Graph Travesal
   - [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Hard_126.%20Word%20Ladder%20II.md)
