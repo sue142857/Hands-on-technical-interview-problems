@@ -45,7 +45,7 @@ date: 06-10-2021
 * Two Pointers (also known as 'Sliding Window')
   - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_658.%20Find%20K%20Closest%20Elements.md)
   - [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_189.%20Rotate%20Array.md)
-  - Minimum Size Subarray Sum | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_209.%20Minimum%20Size%20Subarray%20Sum.md)
+  - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_209.%20Minimum%20Size%20Subarray%20Sum.md)
   - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Solution](https://github.com/sue142857/Hands-on-technical-interview-problems-solutions/blob/main/Medium_1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md)
 * One pass scan
   - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Solution](https://leetcode.com/problems/valid-triangle-number/discuss/128135/A-similar-O(n2)-solution-to-3-Sum)
